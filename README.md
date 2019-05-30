@@ -1,5 +1,5 @@
 # demo-twu
 
-## My H2 heading
+## My H3 heading
 
 Colin wants to add this @paulhibbitts
