@@ -1,3 +1,3 @@
 # demo-twu
 
-## My H2 heading
+## My H3 heading
